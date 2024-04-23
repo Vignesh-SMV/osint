@@ -20,6 +20,6 @@
 -> type the command 
 
          
-   python3 main.py start
+  --> python3 main.py start <--
 
 contact me to get the generator file -> smvignesh80@gmail.com
